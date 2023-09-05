@@ -27,10 +27,10 @@ In this Python web course, I will:
 ### Building My First App
 
 - Understanding the difference between projects and apps in Django. 
-- Creating my first app using the `python manage.py startapp galeria` command. 
+- Creating my first app using the `python manage.py startapp gallery` command. 
 - Creating a custom web page by configuring routes in the `views.py` and `urls.py` files. 
 - Implementing the best practice of creating a separate `urls.py` file for each app. 
-- Isolating the template for the `galeria` app by creating a new folder called `templates` and reconfiguring `settings.py`. 
+- Isolating the template for the `gallery` app by creating a new folder called `templates` and reconfiguring `settings.py`. 
 
 ### Organizing Static Files and Improving UI
 
